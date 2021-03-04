@@ -2,7 +2,7 @@
 
 <h3>Screenshot of application</h3>
 
-<img src="https://github.com/SJ47/project_endangered_animals/blob/main/src/static/images/screenshot-app.png">
+<img src="https://github.com/SJ47/project_endangered_animals/blob/main/client/src/static/images/screenshot-app.png">
 
 # Brief
 
