@@ -26,6 +26,7 @@ const Quiz = () => {
         )
     }
 
+    
     const answerOptions = questions[currentQuestion].answerOptions.map((option, index) => {
         return <li className='answer-options' key={index} onClick={() => { handleAnswerClick(index) }}>{option}</li>
     })
